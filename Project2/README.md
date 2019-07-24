@@ -1,1 +1,10 @@
+# project-2-starter
+Project 2: linear algebra
 
+Group members:
+
+Kate Torres k.torres97@csu.fullerton.edu
+
+Daniel Verdugo dverdugo521@csu.fullerton.edu
+
+All code completed is in 
