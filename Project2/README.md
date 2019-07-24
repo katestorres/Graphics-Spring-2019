@@ -7,4 +7,4 @@ Kate Torres k.torres97@csu.fullerton.edu
 
 Daniel Verdugo dverdugo521@csu.fullerton.edu
 
-All code completed is in 
+Implementation was split between myself and Daniel. All code completed is in gfxalgebra.hpp
